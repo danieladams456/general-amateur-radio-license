@@ -1,2 +1,64 @@
-# general-amateur-radio-license
-Notes for US FCC Amateur Radio License Test
+# General Amateur Radio License Notes
+
+## Band Privileges
+
+- Power
+  - unless otherwise noted, the maximum power output is 1500 watts PEP
+  - technician class users limited to 200 watts
+- 160 meters
+  - `300/160 = 1.875`
+  - 1.800-2.000 MHz: CW, Phone, Image, RTTY/Data
+- 80 meters
+  - `300/80 = 3.75`
+  - 3.525-3.600 MHz: CW, RTTY/Data
+  - 3.800-4.000 MHz: CW, Phone, Image
+- 60 meters
+  - 5 specific channels specified by center frequency
+    - 5332, 5348, 5358.5, 5373, 5405 kHz
+    - `300/60 = 5`
+    - Voice operation is generally in upper sideband (USB) mode to facilitate inter-communication by non-amateur service users if necessary ([Wikipedia](https://en.wikipedia.org/wiki/60-meter_band))
+    - set tuning frequency 1.5 kHz below the center frequency
+  - max power 100 watts
+- 40 meters
+  - `300/40 = 7.5`
+  - 7.025-7.125 MHz : CW, RTTY/Data
+  - 7.175-7.300 MHz:: CW, Phone, Image
+- 30 meters
+  - `300/30 = 10`
+  - 10.100-10.150 MHz: CW, RTTY/Data
+  - no phone, DX band!
+  - max power 200 watts
+- 20 meters
+  - `300/20 = 15`
+  - 14.025 -14.150 MHz CW, RTTY/Data
+  - 14.225 -14.350 MHz: CW, Phone, Image
+- 17 meters
+  - `300/17 = 17.6`
+  - 18.068-18.110 MHz: CW, RTTY/Data
+  - 18.110-18.168 MHz: CW, Phone, Image
+- 15 meters
+  - `300/15 = 20`
+  - 21.025-21.200 MHz: CW, RTTY/Data
+  - 21.275-21.450 MHz: CW, Phone, Image
+- 12 meters
+  - `300/12 = 25`
+  - 24.890-24.930 MHz: CW, RTTY/Data
+  - 24.930-24.990 MHz: CW, Phone, Image
+- 10 meters
+  - `300/ = 30`
+  - 28.000-28.300 MHz: CW, RTTY/Data
+  - 28.300-29.700 MHz: CW, Phone, Image
+- 6 Meters
+  - `300/6 = 50`
+  - 50.0-50.1 MHz: CW Only
+  - 50.1-54.0 MHz: CW, Phone, Image, MCW, RTTY/Data
+- 2 meters
+  - `300/2 = 150`
+  - 144.0-144.1 MHz: CW Only
+  - 144.1-148.0 MHz: CW, Phone, Image, MCW, RTTY/Data
+- 1.25 meters
+  - `300/1.25 = 240`
+  - 222.00-225.00 MHz: CW, Phone, Image, MCW, RTTY/Data
+- 70 centimeters
+  - `300/0.7 = 428`
+  - 420.0-450.0 MHz: CW, Phone, Image, MCW, RTTY/Data
